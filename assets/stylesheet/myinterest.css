@@ -1,0 +1,155 @@
+a {
+    text-decoration: none;
+    color: teal;
+}
+
+p {
+    background-color: rgba(196, 225, 250, 0.4);
+    padding: 17px 10px;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+/*home*/
+
+#pg1 {
+    background-color: rgb(5, 80, 110);
+    padding: 12px 17px;
+    text-decoration: none;
+    border: 0px;
+    color: rgb(103, 166, 224);
+    text-align: justify;
+}
+
+#bg1 {
+    background-image: url('/assets/images/bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+/*interest*/
+
+#pg2a {
+    background-color: rgb(9, 117, 45);
+    padding: 12px 17px;
+    text-decoration: none;
+    border: 0px;
+    color: white;
+}
+
+#pg2b {
+    background-color: rgb(8, 68, 138);
+    padding: 12px 17px;
+    text-decoration: none;
+    border: 0px;
+    color: white;
+}
+
+
+/*skills_achievement*/
+
+#pg3a {
+    background-color: rgb(9, 117, 45);
+    padding: 12px 17px;
+    text-decoration: none;
+    border: 0px;
+    color: white;
+}
+
+#pg3b {
+    background-color: rgb(8, 68, 138);
+    padding: 12px 17px;
+    text-decoration: none;
+    border: 0px;
+    color: white;
+}
+
+
+/*profile*/
+
+#pg4a {
+    background-color: rgb(9, 117, 45);
+    padding: 12px 17px;
+    text-decoration: none;
+    border: 0px;
+    color: white;
+}
+
+#pg4b {
+    background-color: rgb(8, 68, 138);
+    padding: 12px 17px;
+    text-decoration: none;
+    border: 0px;
+    color: white;
+}
+
+
+/*contact*/
+
+#pg5a {
+    background-color: rgb(9, 117, 45);
+    padding: 12px 17px;
+    text-decoration: none;
+    border: 0px;
+    color: white;
+}
+
+
+/*creative_writing*/
+
+#pg6a {
+    background-color: rgb(9, 117, 45);
+    padding: 12px 17px;
+    text-decoration: none;
+    border: 0px;
+    color: white;
+}
+
+
+/*reading*/
+
+#pg7a {
+    background-color: rgb(9, 117, 45);
+    padding: 12px 17px;
+    text-decoration: none;
+    border: 0px;
+    color: white;
+}
+
+
+/*art*/
+
+#pg8a {
+    background-color: rgb(9, 117, 45);
+    padding: 12px 17px;
+    text-decoration: none;
+    border: 0px;
+    color: white;
+}
+
+
+/*photography*/
+
+#pg9a {
+    background-color: rgb(9, 117, 45);
+    padding: 12px 17px;
+    text-decoration: none;
+    border: 0px;
+    color: white;
+}
+
+
+/*design*/
+
+#pg10a {
+    background-color: rgb(9, 117, 45);
+    padding: 12px 17px;
+    text-decoration: none;
+    border: 0px;
+    color: white;
+}
